@@ -42,9 +42,9 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ---
 
-### 📄 Generated Questions - Part 1
+### 📄 Generated Output - 1
 
-<img src="./images/generated_questions_1.png" alt="Generated Questions 1" width="700"/>
+<img src="./images/generated_input_1.png" alt="Generated output 1" width="700"/>
 
 ---
 
