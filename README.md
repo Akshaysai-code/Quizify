@@ -32,7 +32,7 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 | Home Page | MCQ Generator | Quiz View |
 |:---------:|:-------------:|:---------:|
-| ![Home](screenshots/homepage.png) | ![MCQ Generator](screenshots/mcqgenerator.png) | ![Quiz View](screenshots/quizview.png) |
+| ![Home](images/home_page.png) | ![MCQ Generator](screenshots/mcqgenerator.png) | ![Quiz View](screenshots/quizview.png) |
 
 ---
 
