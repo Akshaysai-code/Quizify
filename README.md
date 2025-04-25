@@ -27,8 +27,7 @@ Built for students, educators, and learners — making quiz creation effortless 
 ---
 
 ## 📸 Screenshots
-
-
+---
 
 ---
 
