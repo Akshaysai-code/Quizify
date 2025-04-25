@@ -32,7 +32,7 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ### 🏠 Home Page
 
-![Home](images/home_page.png)
+![Home](images/images/home_page.png.png)
 
 ---
 
