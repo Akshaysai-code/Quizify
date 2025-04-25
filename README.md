@@ -42,9 +42,9 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ---
 
-### 📄 Generated Output - 1
+### 📄 Generated_Output - 1
 
-<img src="./images/generated_input_1.png" alt="Generated output - 1" width="700"/>
+<img src="./images/generated_output_1.png" alt="Generated_output - 1" width="700"/>
 
 ---
 
