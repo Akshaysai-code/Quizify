@@ -40,13 +40,17 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ### 🧠 Text_Input
 
+<p align="center">
 <img src="./images/text_input.png" alt="Text_Input" width="700"/>
+</p>
 
 ---
 
 ### 📄 Generated_Output - 1
 
+<p align="center">
 <img src="./images/generated_output_1.png" alt="Generated_output - 1" width="700"/>
+</p>
 
 ---
 
