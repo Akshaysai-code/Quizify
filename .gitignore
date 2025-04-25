@@ -1,0 +1,18 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Node modules (for React frontend)
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# Log files
+*.log
