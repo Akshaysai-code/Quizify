@@ -1,35 +1,76 @@
-# 🎓 Quizify - AI-Powered Quiz Generator
+# 🎓 Quizify-Automatic MCQ Generator
 
-Welcome to **Quizify**, an intelligent quiz creation tool built using Natural Language Processing (NLP).  
-This project helps users convert study material or text content into multiple-choice questions (MCQs) automatically — perfect for students and educators!
+Welcome to **Quizify-Automatic MCQ Generator**, an intelligent web application that automatically creates multiple-choice questions (MCQs) from any given text.  
+Built for students, educators, and learners — making quiz creation effortless and efficient!
 
 ---
 
 ## 🚀 Features
 
-- 🔍 Extracts questions intelligently from any given text
-- 🤖 Uses advanced NLP techniques to understand context
-- 🧠 Automatically generates MCQs along with distractor options
-- 💻 Frontend built with **React.js** and **Tailwind CSS**
-- 🐍 Backend powered by **Python (FastAPI)**
-- 🎯 Clean, responsive UI for a smooth user experience
+- 🔍 Extracts questions and answers from any provided paragraph or document
+- 🤖 Uses Natural Language Processing (NLP) techniques to generate MCQs
+- 🧠 Automatically creates meaningful distractors (wrong options)
+- 💻 Frontend built with **React.js + Tailwind CSS**
+- 🐍 Backend powered by **Python (FastAPI) + NLP models**
+- 🎯 Clean and simple UI for smooth user experience
 
 ---
 
 ## 🖥️ Tech Stack
 
-| Frontend     | Backend    | NLP Engine |
-|--------------|------------|------------|
-| React.js     | FastAPI     | Transformers |
-| Tailwind CSS | Python 3.10+ | NLTK, Custom Models |
-| JSX/JavaScript | REST API | Tokenizers, Synonyms |
+| Frontend       | Backend    | NLP Engine        |
+|----------------|------------|-------------------|
+| React.js       | FastAPI     | Custom MCQ Models |
+| Tailwind CSS   | Python      | Text Tokenizers   |
+| JavaScript (JSX)| REST API   | NLP Techniques    |
+
+---
+
+## 📸 Screenshots
+
+> *(Screenshots based on what you uploaded — if you want, you can update with real image links later!)*
+
+| Home Page | MCQ Generator | Quiz View |
+|:---------:|:-------------:|:---------:|
+| ![Home](screenshots/homepage.png) | ![MCQ Generator](screenshots/mcqgenerator.png) | ![Quiz View](screenshots/quizview.png) |
+
+---
+
+## ⚙️ How to Run Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Akshaysai-code/Quizify.git
+cd Quizify
+```
+
+### 2. Run the Frontend
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+> Make sure you have Node.js and npm installed.
+
+### 3. Run the Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+> Ensure Python and pip are installed in your environment.
 
 ---
 
 ## 📂 Project Structure
 
 ```
-Frontend/
+frontend/
 │
 ├── App.js
 ├── index.js
@@ -39,7 +80,7 @@ Frontend/
 │   ├── MCQGenerator.js
 │   └── OtherComponents.js
 │
-Backend/
+backend/
 │
 ├── main.py
 ├── database.py
@@ -49,61 +90,24 @@ Backend/
 
 ---
 
-## 📸 Screenshots
+## 📈 Future Enhancements
 
-> _(These are placeholders — replace them later with real uploaded images if needed!)_
-
-| Home Page | MCQ Generation | Result View |
-|:---------:|:--------------:|:-----------:|
-| ![Home](screenshots/home.png) | ![MCQ](screenshots/mcqgeneration.png) | ![Result](screenshots/result.png) |
-
----
-
-## ⚙️ How to Run Locally
-
-1. **Clone the repository**  
-```bash
-git clone https://github.com/Akshaysai-code/Quizify.git
-cd Quizify
-```
-
-2. **Start Backend**  
-```bash
-cd Backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-3. **Start Frontend**  
-```bash
-cd Frontend
-npm install
-npm start
-```
-
----
-
-## 🌟 Future Enhancements
-
-- Export quizzes to PDF
-- Add timer-based quizzes
-- User authentication (Login/Register)
-- Save quiz history and results
-- Improve question difficulty levels
+- 📝 Export generated quizzes to PDF/Word
+- 🧠 Upgrade MCQ generation using larger language models (e.g., GPT-4)
+- 🎮 Add gamification features (timed quizzes, scores)
+- 🔒 User authentication and quiz history tracking
 
 ---
 
 ## 🙌 Contributing
 
-Pull requests are welcome!  
-For significant changes, please open an issue first to discuss what you would like to improve.
+Contributions are welcome!  
+Please open an issue first to discuss what you would like to change.  
+Feel free to fork, create a pull request, or suggest improvements.
 
 ---
 
 ## 📜 License
-
-Distributed under the MIT License.  
-See `LICENSE` for more information.
 
 ---
 
