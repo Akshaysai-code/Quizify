@@ -56,7 +56,9 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ### 📄 Generated_output - 2
 
+<p align="center">
 <img src="./images/generated_output_2.png" alt="Generated_output - 2" width="700"/>
+</p>
 
 
 ---
