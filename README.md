@@ -32,7 +32,7 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ### 🏠 Home Page
 
-![Home](images/images/home_page.png.png)
+<img src="./images/home_page.png" alt="Home Page" width="700"/>
 
 ---
 
@@ -52,7 +52,6 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 <img src="./images/generated_questions_2.png" alt="Generated Questions 2" width="700"/>
 
----
 
 ---
 
