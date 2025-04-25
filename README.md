@@ -1,11 +1,11 @@
-# 🎓 Quizify-Automatic MCQ Generator
+🎓 Quizify-Automatic MCQ Generator
 
 Welcome to **Quizify-Automatic MCQ Generator**, an intelligent web application that automatically creates multiple-choice questions (MCQs) from any given text.  
 Built for students, educators, and learners — making quiz creation effortless and efficient!
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 🔍 Extracts questions and answers from any provided paragraph or document
 - 🤖 Uses Natural Language Processing (NLP) techniques to generate MCQs
@@ -16,7 +16,7 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ---
 
-## 🖥️ Tech Stack
+ 🖥️ Tech Stack
 
 | Frontend       | Backend    | NLP Engine        |
 |----------------|------------|-------------------|
@@ -26,7 +26,7 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
 
 > *(Screenshots based on what you uploaded — if you want, you can update with real image links later!)*
 
@@ -36,16 +36,16 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ---
 
-## ⚙️ How to Run Locally
+⚙️ How to Run Locally
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Akshaysai-code/Quizify.git
 cd Quizify
 ```
 
-### 2. Run the Frontend
+ 2. Run the Frontend
 
 ```bash
 cd frontend
@@ -67,7 +67,7 @@ uvicorn main:app --reload
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 frontend/
