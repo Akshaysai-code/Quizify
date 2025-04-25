@@ -38,7 +38,7 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ### 🧠 Text_Input
 
-<img src="./images/text_input.png" alt="Home Page" width="700"/>
+<img src="./images/text_input.png" alt="Text_Input" width="700"/>
 
 ---
 
