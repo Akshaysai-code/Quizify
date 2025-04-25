@@ -70,7 +70,10 @@ uvicorn main:app --reload
 ## 📂 Project Structure
 
 ```
+Quizify/
+|
 images/
+|
 frontend/
 │
 ├── App.js
