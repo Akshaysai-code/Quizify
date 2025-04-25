@@ -36,9 +36,9 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ---
 
-### 🧠 MCQ Generator
+### 🧠 Text_Input
 
-<img src="./images/mcq_generator.png" alt="MCQ Generator" width="700"/>
+<img src="./images/text_input.png" alt="Home Page" width="700"/>
 
 ---
 
