@@ -28,11 +28,31 @@ Built for students, educators, and learners — making quiz creation effortless 
 
 ## 📸 Screenshots
 
-> *(Screenshots based on what you uploaded — if you want, you can update with real image links later!)*
+---
 
-| Home Page | MCQ Generator | Quiz View |
-|:---------:|:-------------:|:---------:|
-| ![Home](images/home_page.png.png) | ![MCQ Generator](screenshots/mcqgenerator.png) | ![Quiz View](screenshots/quizview.png) |
+### 🏠 Home Page
+
+<img src="./images/home_page.png" alt="Home Page" width="700"/>
+
+---
+
+### 🧠 MCQ Generator
+
+<img src="./images/mcq_generator.png" alt="MCQ Generator" width="700"/>
+
+---
+
+### 📄 Generated Questions - Part 1
+
+<img src="./images/generated_questions_1.png" alt="Generated Questions 1" width="700"/>
+
+---
+
+### 📄 Generated Questions - Part 2
+
+<img src="./images/generated_questions_2.png" alt="Generated Questions 2" width="700"/>
+
+---
 
 ---
 
