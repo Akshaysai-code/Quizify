@@ -70,6 +70,7 @@ uvicorn main:app --reload
 ## 📂 Project Structure
 
 ```
+images/
 frontend/
 │
 ├── App.js
