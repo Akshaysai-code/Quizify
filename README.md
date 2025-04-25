@@ -27,11 +27,12 @@ Built for students, educators, and learners — making quiz creation effortless 
 ---
 
 ## 📸 Screenshots
----
+|
 
 ---
 
 ### 🏠 Home Page
+|
 
 <p align="center">
   <img src="./images/home_page.png" alt="Home Page" width="700"/>
